@@ -1,11 +1,13 @@
-[
-  {
-    "product_type": "vcenter",
-    "name": "golden-axe.vcenter1.vmware.com",
-    "host": "192.168.10.100",
-    "user": "administrator@vsphere.local",
-    "password": "VMware123!",
-    "description": "This is test.",
-    "_id": "6278c691be1147770f14eb07"
-  }
-]
+{
+  "data": [
+    {
+      "product_type": "vcenter",
+      "name": "golden-axe.vcenter1.vmware.com",
+      "host": "192.168.10.100",
+      "user": "administrator@vsphere.local",
+      "password": "VMware123!",
+      "description": "This is test.",
+      "_id": "6278c691be1147770f14eb07"
+    }
+  ]
+}
